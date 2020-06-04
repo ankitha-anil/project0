@@ -3,9 +3,9 @@
     padding:20px;
     text-align: center;
 }
-#About{
+#About h3{
     margin: 20px;
     padding: 30px;
-    background-color:#403e3e;
-   
+    background-color:#363a42;
+   color: white;
 }
